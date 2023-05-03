@@ -1,4 +1,4 @@
-package aplicacion;
+package ej1;
 
 import java.util.TreeSet;
 
