@@ -14,13 +14,14 @@ public class Main {
 		//I don't know how to use this
 		TreeSet<Integer> numeros= new TreeSet<Integer>();
 		
-		
-		
-		for(int i=0;;i++) {
-			
-			
+		for(int i=0;i<=20;i++) {
+			//añade el número 5
+			numeros.add(5);
+
+			numeros.toArray();
+			numeros.size();
 		}
-		
+		System.out.println(numeros);
 		
 		
 		
