@@ -11,6 +11,7 @@ public class Main {
 		
 		
 		//pensar como si fuera un array
+		//I don't know how to use this
 		TreeSet<Integer> numeros= new TreeSet<Integer>();
 		
 		
