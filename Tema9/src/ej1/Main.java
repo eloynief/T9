@@ -7,7 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
+		int random=0;
 		
 		
 		//pensar como si fuera un array
@@ -16,7 +16,8 @@ public class Main {
 		
 		for(int i=0;i<=20;i++) {
 			//añade el número 5
-			numeros.add(5);
+			random=((int) (Math.random()*100));
+			numeros.add(random);
 
 			numeros.toArray();
 			numeros.size();
